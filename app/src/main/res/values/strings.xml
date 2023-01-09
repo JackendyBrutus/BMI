@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="question1">Enter your weigth here (kg)</string>
+    <string name="question2">Enter your heigth here (m)</string>
+    <string name="btnCompute">BMI</string>
+    <string name="value1">Weigth</string>
+    <string name="value2">Heigth</string>
+    <string name="tip_hint1">You must provide actual values</string>
+    <string name="tip_hint2">The weigth and the heigth must be positive !</string>
+    <string name="result">Your BMI is</string>
+    <string name="tip1">Very severely underweight</string>
+    <string name="tip2">Severely underweight</string>
+    <string name="tip3">Underweigth</string>
+    <string name="tip4">Normal (healthy weight)</string>
+    <string name="tip5">Overweight</string>
+    <string name="tip6">Obese Class I (Moderately obese)</string>
+    <string name="tip7">Obese Class II (Severely obese)</string>
+    <string name="tip8">Obese Class III (Very severely obese)</string>
+</resources>

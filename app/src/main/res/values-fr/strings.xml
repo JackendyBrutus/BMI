@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="question1">Entrer votre poid ici (kg)</string>
+    <string name="question2">Entrer votre hauteur ici (m)</string>
+    <string name="btnCompute">IMC</string>
+    <string name="value1">Poid</string>
+    <string name="value2">Hauteur</string>
+    <string name="tip_hint1">Vous devez entrer des valeurs</string>
+    <string name="tip_hint2">Le poid et la hauteur doivent etre positifs !</string>
+    <string name="result">Votre IMC est</string>
+    <string name="tip1">Très grave insuffisance ponderale</string>
+    <string name="tip2">Insuffisance ponderale grave</string>
+    <string name="tip3">Poid insuffisant</string>
+    <string name="tip4">Normal (bon Poid)</string>
+    <string name="tip5">En surpoid</string>
+    <string name="tip6">Obèse de Classe I (Moderement obese)</string>
+    <string name="tip7">Obese de Classe II (Sevèrement obese)</string>
+    <string name="tip8">Obese de Classe III (très sevèrement obèse)</string>
+</resources>
